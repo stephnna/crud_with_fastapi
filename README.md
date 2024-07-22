@@ -1,4 +1,3 @@
-# crud_with_fastapi
 # FastAPI CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using FastAPI, SQLAlchemy, and SQLite.
@@ -24,7 +23,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Fas
 
    ```bash
    git clone git@github.com:stephnna/crud_with_fastapi.git
-   cd yourrepository
+   cd crud_with_fastapi
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
